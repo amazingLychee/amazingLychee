@@ -62,14 +62,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🤖 [AI Chatbot](https://github.com/amazingLychee/trump-bot)
-> Chat with "Trump" anytime you want — an AI chatbot that talks just like him 🎙️
->
-> `Python` `LangChain` `RAG` `OpenAI API`
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
